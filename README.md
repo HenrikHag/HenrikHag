@@ -1,8 +1,15 @@
-### Hello there 👋
+<div align="center">
 
-<b>My GitHub Stats</b>
+ <h2>Hello there 👋</h2>
 
-<a href="http://www.github.com/HenrikHag"><img src="https://github-readme-stats.vercel.app/api?username=HenrikHag&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Henrik's GitHub stats" /></a>
+</div>
+
+<div align="center">
+
+ ![HenrikHag's Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikHag&langs_count=4&theme=transparent&bg_color=00000000&custom_title=My%20Most%20Used%20Languages&hide_border=true&count_private=true)
+ <h6>Note: This is only a metric of languages used in my repositories, not a metric of experience or skill level.</h6>
+</div>
+
 
 <!--
 **HenrikHag/HenrikHag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
