@@ -1,8 +1,12 @@
-<div align="center">
+<div id="header" align="center">
 
  <h2>Hello there 👋</h2>
+ 
+ <img src="https://media.giphy.com/media/ESNF24bQCAMw0/giphy.gif" width="480" height="270" frameBorder="0" />
+ <!-- From Giphy: https://giphy.com/gifs/loop-request-ESNF24bQCAMw0 -->
 
 </div>
+
 
 <div align="center">
 
