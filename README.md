@@ -1,12 +1,20 @@
 <div id="header" align="center">
 
- <h2>Hello there 👋</h2>
+ <h2>Hello 👋 Welcome to my GithHub profile!</h2>
  
- <img src="https://media.giphy.com/media/ESNF24bQCAMw0/giphy.gif" width="480" height="270" frameBorder="0" />
+ <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="480" frameBorder="0" />
+ <!-- From Giphy: https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd -->
+ <!-- <img alt="Spinning Seal" src="https://media.giphy.com/media/ESNF24bQCAMw0/giphy.gif" width="480" height="270" frameborder="0" /> -->
  <!-- From Giphy: https://giphy.com/gifs/loop-request-ESNF24bQCAMw0 -->
-
+ 
 </div>
 
+---
+
+- 🔭 I am currently working on Python and C++ projects
+- 🌱 I am currently learning GitHub Actions
+
+---
 
 <div align="center">
 
